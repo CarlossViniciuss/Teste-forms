@@ -48,8 +48,6 @@ Porem em nivel de codigo foi seguido uma arquitetura simples de fluxo completo e
 - Junit 4
 - Chromedriver compativel com a versão do nevegador (Ao clonar e abrir o projeto subistitua o chromedriver pelo compativel)
 
-Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
-
 ## 📄 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.

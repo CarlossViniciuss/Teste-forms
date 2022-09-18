@@ -62,7 +62,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
  <sub><b>Carlos Vinicius</b></sub></a> <a href="">🚀</a>
 <br />
 
-Feito com ❤️ por Carlos Vinicius e com a ajuda da Rocketseat 👋🏽 Entre em contato!
+Feito por Carlos Vinicius!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/carlos-vinicius-95745a1a4)](https://www.linkedin.com/in/carlos-vinicius-95745a1a4) 
 [![Gmail Badge](https://img.shields.io/badge/-carlosvinicius.index@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosvinicius.index@gmail.com)](mailto:carlosvinicius.index@gmail.com)
